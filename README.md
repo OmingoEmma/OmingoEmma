@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  
   <tr>
     <td>Masters in Computer Science</td>
-    <td><a href="https://www.mdx.ac.uk/study/subjects/computer-science-engineering-and-maths/computer-science-and-informatics/?utm_source=google&utm_medium=cpc&utm_campaign=ec_postgraduate_apply&utm_id=MDX007.1&utm_content=compsci&gad_source=1&gbraid=0AAAAAqWHmTnRDIa9sTH4GadNc_VkTuMeO&gclid=CjwKCAjw47i_BhBTEiwAaJfPpj0VQ2HVsHqrEIwE-CBr6NEGMV3AmsB_sMBCxa4OM4aer16Zc5XydhoCkrgQAvD_BwE">Middlesex University-London,UK</a></td>
+    <td><a href="https://www.mdx.ac.uk/study/subjects/computer-science-engineering-and-maths/computer-science-and-informatics/?utm_source=google&utm_medium=cpc&utm_campaign=ec_postgraduate_apply&utm_id=MDX007.1&utm_content=compsci&gad_source=1&gbraid=0AAAAAqWHmTnRDIa9sTH4GadNc_VkTuMeO&gclid=CjwKCAjw47i_BhBTEiwAaJfPpj0VQ2HVsHqrEIwE-CBr6NEGMV3AmsB_sMBCxa4OM4aer16Zc5XydhoCkrgQAvD_BwE">Middlesex University</a></td>
     <td>2024d>
     
   </tr>
