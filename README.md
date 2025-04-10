@@ -40,14 +40,14 @@ Here are some ideas to get you started:
     
   </tr>
   <tr>
-    <td>Bachelors in Computer Science</td>
+    <td>Bachelors in Computer Science
     <td><a href="#"><a/>Riara University<td>
     <td>2020<td>
     
   </tr>
     <tr>
-    <td>Moringa/Flatiron Sschool
-    <td><a href="#"></a>Software Engineering Full Stack Bootcamp <td>
+    <td>Software Engineering Full Stack Bootcamp</td>
+    <td><a href="#"></a>Moringa/Flatiron School <td>
     <td>2024</td>
     
   </tr>
