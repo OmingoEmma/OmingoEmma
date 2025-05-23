@@ -139,7 +139,7 @@ A decentralized application showcasing advanced web3 integration:
 | Degree/Certification | Institution | Status/Year |
 |----------------------|-------------|-------------|
 | MSc Computer Science | [Middlesex University](https://www.mdx.ac.uk/) | 2024 - Present |
-| Bachelor's in Computer Science | Riara University | 2020 |
+| Bachelor's in Computer Science | Riara University | 2024 |
 | Software Engineering Bootcamp | Moringa/Flatiron School | 2024 |
 | Summer Program | University of Central Lancashire | 2022 |
 | French Language Diploma | Alliance Française de Paris | 2019 |
